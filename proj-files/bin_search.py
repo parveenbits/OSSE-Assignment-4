@@ -1,6 +1,6 @@
 def binary_search(arr, low, high, x):
  
-    #Compare the items
+    #Compare the items from the given list
     if high >= low:
         #get the middle item
         mid = (high + low) // 2
